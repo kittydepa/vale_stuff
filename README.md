@@ -1,4 +1,4 @@
-# Copied from ``vale-boilerplate``
+# Copied from [``vale-boilerplate``](https://github.com/errata-ai/vale-boilerplate)
 
 This is [a copy of a] repository that showcases the basic components of Vale's configuration: a `StylesPath` (`/styles`), a configuration file (`/.vale.ini`), and markup content (this file).
 
