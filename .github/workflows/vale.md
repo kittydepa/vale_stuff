@@ -1,4 +1,4 @@
-name: Vale Lint
+<!-- name: Vale Lint
 
 on:
   pull_request:
@@ -24,4 +24,4 @@ jobs:
       - name: Run Vale
         run: |
           vale .
-        continue-on-error: true  # Optional: allows the workflow to continue even if Vale finds errors
+        continue-on-error: true  # Optional: allows the workflow to continue even if Vale finds errors -->
